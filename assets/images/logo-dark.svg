@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 44" fill="none">
+  <!-- Geometric Octagonal Node Icon -->
+  <g transform="translate(2, 2)">
+    <!-- Outer Octagonal Ring -->
+    <polygon points="12,2 28,2 38,12 38,28 28,38 12,38 2,28 2,12" stroke="#0052FF" stroke-width="2.5" fill="#EEF2F6" fill-opacity="0.9"/>
+    <!-- Inner Geometric Data Core -->
+    <polygon points="15,9 25,9 31,15 31,25 25,31 15,31 9,25 9,15" stroke="#0066FF" stroke-width="1.5" fill="#0052FF" fill-opacity="0.15"/>
+    <!-- Center Binary Pulse Dot -->
+    <rect x="18" y="18" width="4" height="4" fill="#0052FF"/>
+    <!-- Corner Tech Ticks -->
+    <line x1="2" y1="12" x2="6" y2="12" stroke="#0052FF" stroke-width="1.5"/>
+    <line x1="38" y1="28" x2="34" y2="28" stroke="#0052FF" stroke-width="1.5"/>
+  </g>
+  <!-- Wordmark for Light Backgrounds -->
+  <text x="52" y="28" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="21" letter-spacing="-0.03em" fill="#0B1F3A">
+    ZERO<tspan fill="#0052FF">BYTE</tspan><tspan fill="#475569" font-weight="500">CH</tspan>
+  </text>
+  <!-- Engineering Sub-descriptor -->
+  <text x="53" y="38" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="7.5" letter-spacing="0.22em" fill="#64748B">
+    CLOUD ENGINEERING
+  </text>
+</svg>
